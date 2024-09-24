@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6NeZyYKsMt7_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">section 01</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6JHxnI4kuYP" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">section 01</name>
+			<description lang="und">section 01</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6g2xirPRi6H" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_splash</name>
+			<description lang="und">S01_splash</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5jx49h2URQe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_title</name>
+			<description lang="und">S01_title</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6AO69fXDVNk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_01</name>
+			<description lang="und">S01_01</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5f6pTkqT614" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_Q1</name>
+			<description lang="und">S01_Q1</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5f6pTkqT614/6p9XdkbknvE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">vxj vki bl bf’rgkj dks ns[ksa] rks vki D;k lkspsaxs\ </name>
+			<description lang="und">vxj vki bl bf’rgkj dks ns[ksa] rks vki D;k lkspsaxs\ </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_66d9YwVb7mf</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6LboIErzeWX</id>
+					<description lang="und">ChoiceA</description>
+				</component>
+				<component>
+					<id>choice_66d9YwVb7mf</id>
+					<description lang="und">t</description>
+				</component>
+				<component>
+					<id>choice_6n4KdaNePUo</id>
+					<description lang="und">ChoiceC</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6GSVMN9uot2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_02</name>
+			<description lang="und">S01_02</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5XVYEGfJz3d" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_03</name>
+			<description lang="und">S01_03</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5YzJPv1Czst" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_04</name>
+			<description lang="und">S01_04</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5uXKN7i1dhQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_05</name>
+			<description lang="und">S01_05</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6Lu2HwQzv30" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_06</name>
+			<description lang="und">S01_06</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5oJHjEFzMqZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_07</name>
+			<description lang="und">S01_07</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6pOcxjgTdhc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_08</name>
+			<description lang="und">S01_08</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5Ur6d4kqPcE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_09</name>
+			<description lang="und">S01_09</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5vKdMiOG3bQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_10</name>
+			<description lang="und">S01_10</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6J0lGjV0nsy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_11</name>
+			<description lang="und">S01_11</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6e2otxbE9rH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_Q2</name>
+			<description lang="und">S01_Q2</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6e2otxbE9rH/6jSzkEHKqlR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5Vd9CsW9gEX</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5Xad7iGZ1FN</id>
+					<description lang="und">ChoiceA</description>
+				</component>
+				<component>
+					<id>choice_5Vd9CsW9gEX</id>
+					<description lang="und">ChoiceB</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6Spw0OuSqSi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_12</name>
+			<description lang="und">S01_12</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/5xxZyXbfELF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_13</name>
+			<description lang="und">S01_13</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6BWQR4wSMbz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_14</name>
+			<description lang="und">S01_14</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6IUE8Wcprkz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_Last</name>
+			<description lang="und">S01_Last</description>
+		</activity>
+		<activity id="http://6NeZyYKsMt7_course_id/6Sldv1rd5PN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">S01_SectionEnd</name>
+			<description lang="und">S01_SectionEnd</description>
+		</activity>
+	</activities>
+</tincan>
